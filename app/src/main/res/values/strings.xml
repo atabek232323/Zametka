@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Zametka</string>
+    <string name="hint_tilte">Заголовок зампетки:</string>
+    <string name="hint_describtion">Описание заметки</string>
+    <string name="button_save_note">Добавить Заметку</string>
+    <string name="radiobt_3">3</string>
+    <string name="radiobt_2">2</string>
+    <string name="radiobt_1">1</string>
+    <string-array name="daysOfWeek">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>
